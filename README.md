@@ -6,7 +6,7 @@ Unityで初めて作成した某Up系ゲームです。Unityの3Dテンプレー
 chatgptにこの処理をしたいんだけどどうすればいいの？ここのコードは何をしているの？と聞く毎日でした。
 
 ## プレイ動画・スクリーンショット
-![screenshot](screenshots/gameplay.png)
+<https://chi-ba.mydns.jp/blog/?p=57>
 
 ## 操作方法
 - W/A/S/D：移動
